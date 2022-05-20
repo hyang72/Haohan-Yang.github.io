@@ -1,4 +1,4 @@
-```markdown
+```
 layout:     post
 title:      "Machine Learning and Predictive Analytics: Introduction to Artificial Neural Networks with Keras"
 subtitle:   "Introduction to dimensionality reduction and python implementation"
